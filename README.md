@@ -14,3 +14,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [1.3.1/RUN-BUDDY](https://tom2u.github.io/coding-online-module-1/1.3.1/RUN-BUDDY)  
 [1.3.3/RUN-BUDDY](https://tom2u.github.io/coding-online-module-1/1.3.3/RUN-BUDDY)  
 [1.3.4/RUN-BUDDY](https://tom2u.github.io/coding-online-module-1/1.3.4/RUN-BUDDY)  
+[1.3.5/RUN-BUDDY](https://tom2u.github.io/coding-online-module-1/1.3.5/RUN-BUDDY)  
